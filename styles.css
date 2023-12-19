@@ -1,9 +1,2 @@
 
 /* Your CSS Code here. */
-.block-inline-div {
-            display: inline;
-        }
-.block-inline-p,
-        .block-inline-h1, .block-inline-d{
-            display: block;
-        }
